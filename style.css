@@ -373,3 +373,7 @@ li.contact {
   margin-left: 50px;
   margin-bottom: 367px;
 }
+
+.tips-card:hover{
+    background-color: var(--green);
+}
